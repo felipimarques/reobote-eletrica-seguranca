@@ -354,7 +354,7 @@ export default function Page() {
       </footer>
 
       {/* WhatsApp flutuante */}
-      <a href={WA} target="_blank" rel="noopener" aria-label="WhatsApp" className="fixed bottom-5 right-5 z-[60] w-14 h-14 rounded-full bg-green-500 flex items-center justify-center text-white text-2xl shadow-2xl hover:scale-105 transition-transform">
+      <a href={WA} target="_blank" rel="noopener" aria-label="WhatsApp" className="fixed bottom-6 left-5 md:left-auto md:right-5 md:bottom-24 z-[60] w-14 h-14 rounded-full bg-green-500 flex items-center justify-center text-white text-2xl shadow-2xl hover:scale-105 transition-transform">
         ✆
       </a>
     </>
