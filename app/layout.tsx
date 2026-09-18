@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "REOBOTE | Elétrica & Segurança — Santo André | 5.0★ no Google",
+  title: "Reobote Elétrica & Segurança — Santo André | 5.0★ no Google",
   description:
     "Reobote Elétrica & Segurança em Santo André. Nota 5.0 no Google com 33 avaliações. CFTV, elétrica NBR 5410, fechaduras digitais, manutenção preventiva. Chame no WhatsApp (11) 94344-3190.",
   keywords: [
@@ -37,7 +37,7 @@ export default function RootLayout({
           crossOrigin=""
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&display=swap"
           rel="stylesheet"
         />
       </head>

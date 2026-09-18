@@ -7,19 +7,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brand: {
-          yellow: "#FFA000",
-          orange: "#FF7A00",
-          gold: "#F59E0B",
-          dark: "#0A0B0E",
-          darker: "#060709",
-          card: "#12141A",
-          cardBorder: "#1E222D",
-          muted: "#9CA3AF",
+        fuse: {
+          amber: "#FFA000",
+          deep: "#E65100",
+        },
+        night: {
+          DEFAULT: "#0A0B0E",
+          panel: "#12141A",
+          edge: "#1E222D",
         },
       },
       fontFamily: {
-        sans: ['"Plus Jakarta Sans"', "sans-serif"],
+        sans: ["Archivo", "sans-serif"],
       },
     },
   },
